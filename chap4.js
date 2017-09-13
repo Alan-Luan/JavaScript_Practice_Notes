@@ -1,6 +1,5 @@
 var person = new Object();
 person.name = 'Alan';
-alert(person.name);
 
 typeof obj;
 person instanceof Object;
